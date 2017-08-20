@@ -1,0 +1,10 @@
+#cs-tab-admin_setting_option {
+	display: none !important;
+}
+.cs-body .cs-nav li:last-child {
+	display: none;
+}
+.cs-framework .cs-nav-background {
+	background: none;
+	border-right: 1px solid #222;
+}
